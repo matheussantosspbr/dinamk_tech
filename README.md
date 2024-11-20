@@ -1,6 +1,6 @@
-## Passos para o funcionamento do sistema
+## Passos para o funcionamento do sistema <br/>
 
-Abra o Terminal:
+Abra o Terminal:<br/>
 1- `git clone https://github.com/matheussantosspbr/dinamk_tech.git`
 
 2- `cd dinamk_tech'`
